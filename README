@@ -1,0 +1,15 @@
+README
+Created Tue Jan 10 10:18:00 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+cases.txt
+  Cases
+
+links.txt
+  Case related links
+
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under case/
