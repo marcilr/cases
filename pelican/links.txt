@@ -1,0 +1,15 @@
+links.txt
+Created Tue Jan 10 10:27:29 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+
+Pelican related links
+
+
+Links
+=====
+Pelican
+Guarantee of Excellance
+http://www.pelican.com/about/guarantee-of-excellence/?division=cor&language=en&region=us
+
