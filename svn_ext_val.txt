@@ -1,0 +1,14 @@
+#
+# svn_ext_val.txt
+# Created Thu Aug 16 19:43:58 AKDT 2012
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under case/
+#
+# pelican/   Pelican Case
+#            http://www.pelican-case.com/
+#
+./pelican    svn+ssh://home/data/svnroot/gear/case/pelican/pelican
