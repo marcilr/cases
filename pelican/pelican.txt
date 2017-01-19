@@ -17,6 +17,10 @@ One for the gps and various sizes for backpacking trips.
 
 Wed Jan 18 07:57:44 AKST 2017
 =============================
+o Only the lid of the yellow Pelican had a foam liner.  I cut up the old blue 
+  but pad into 5 pieces to line the case.  Worked very well to protect the 
+  GoPro and such going into the case.
+
 o The Instructions for Latch Replacement pdf I got from Pelican looks really nice.
   It shows the use of a pin punch to remove the pin.   However, the end of the pin
   where I would use the punch is covered by plastic and not that accessible.
